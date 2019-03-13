@@ -1,4 +1,4 @@
 # Python-Minesweeper
 Minesweeper game made with Tkinter in Python
 </br>
-![Screenshot](https://imgur.com/KpxsrJi)
+![Screenshot](https://i.imgur.com/KpxsrJi.png)
